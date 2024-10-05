@@ -1,1 +1,0 @@
-# thoughtworks-geeknight-contract-testing
